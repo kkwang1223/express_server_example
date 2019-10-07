@@ -1,0 +1,24 @@
+{
+  "name": "express-node-server-ex",
+  "version": "1.0.0",
+  "description": "express server excute",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:server": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkwang1223/express_server_example.git"
+  },
+  "author": "kkwang1223",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kkwang1223/express_server_example/issues"
+  },
+  "homepage": "https://github.com/kkwang1223/express_server_example#readme",
+  "dependencies": {
+    "eslint": "^6.5.1",
+    "express": "^4.17.1"
+  }
+}
